@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   list-style: none;
- 
 }
 
 /* Ümumi div */
@@ -209,7 +208,7 @@
 
 .compare-icon h5:hover{
     cursor: pointer;
-    color: #460808;
+    color: #3d0c0c;
 }
 .my-list{
     
