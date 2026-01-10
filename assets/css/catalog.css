@@ -208,8 +208,7 @@
 
 .compare-icon h5:hover{
     cursor: pointer;
-    color: #680707;
-
+    color: #3d0c0c;
 }
 .my-list{
     
@@ -339,4 +338,38 @@
   display: flex;
   justify-content: end;
   margin-top: 30px;
+}
+
+
+.finish{
+    background-color: black;
+    display: flex;
+    margin-top: 100px;
+    gap: 240px;
+    justify-content: center;
+    align-items: center;
+    
+    width: 100%;
+    height: 178px;
+
+}
+
+.policy{
+    color: #A2A2A2;
+    display: flex;
+    gap: 15px;
+      font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+}
+.follow p{
+    color: #A2A2A2;
+      font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+}
+.follow{
+    display: flex;
+    gap: 15px;
+    padding-right: 30px;
 }
